@@ -1,0 +1,7 @@
+r=float (input ("Enter the radius of circle: "))
+area=math.pi*r*r
+print(".2f" %area)
+
+
+
+
