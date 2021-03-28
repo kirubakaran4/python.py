@@ -1,4 +1,20 @@
 {
+"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	]
+}
+{
 	"auto_complete":
 	{
 		"selected_items":
